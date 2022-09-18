@@ -14,6 +14,7 @@
 <h3>🌱 I’m currently learning ...Full Stack Web Development </h3>
 <h3>💞️ I’m looking to collaborate on ...Web development projects <h3/>
 <h3>📫 Reach me at <a href="shreepradadb@gmail.com">shreepradadb@gmail.com </a> OR <a href="https://www.linkedin.com/in/shreeprada-bhat-284365127/">LinkedIn</a></h3>
+<h3>📄 Know about my experiences <a href="https://drive.google.com/file/d/12mqxenB-mksJUhIm34Ew-TOVocZPiTDr/view?usp=sharing">Resume</a>
 <hr/>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Shreeprada&show_icons=true&hide=issues&theme=radical"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeprada&layout=compact&theme=radical"/></div>
 
